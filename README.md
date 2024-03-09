@@ -4,6 +4,6 @@ Je m'appelle Arthur, j'ai 25 ans. Je suis Community manager, modérateur certifi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrDerrios)
 
 ## Me contacter
-- Discord: @derrios 
-- E-Mail: pro@derrios.fr
-- Twitter: [@MrDerrios](https://twitter.com/MrDerrios)
+- Discord : [@derrios](https://discord.com/users/264320223182585858)
+- Twitter : [@MrDerrios](https://twitter.com/MrDerrios)
+- LinkedIn : [Arthur Battais](https://www.linkedin.com/in/arthurbattais/)
