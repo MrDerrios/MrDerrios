@@ -5,5 +5,4 @@ Je m'appelle Arthur, j'ai 27 ans. Je suis Community manager, modérateur certifi
 
 ## Me contacter
 - Discord : [@derrios](https://discord.com/users/264320223182585858)
-- Twitter : [@MrDerrios](https://twitter.com/MrDerrios)
 - LinkedIn : [Arthur Battais](https://www.linkedin.com/in/arthurbattais/)
